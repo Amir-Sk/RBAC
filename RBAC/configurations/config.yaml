@@ -1,0 +1,20 @@
+Identities:
+  - name: Joe
+    password: SGFrdW5hTWF0YXRhIQ==
+    Roles:
+    - name: Designer
+
+Roles:
+  - name: Designer
+    permissions:
+      - name: READ
+      - name: WRITE
+      - name: DELETE
+  - name: Integrator
+    permissions:
+      - name: READ
+
+Permissions:
+  - name: READ
+  - name: WRITE
+  - name: DELETE

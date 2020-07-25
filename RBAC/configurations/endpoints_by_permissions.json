@@ -1,0 +1,5 @@
+{
+  "READ": "localhost:8000/index.html",
+  "WRITE": "localhost:8000/VF/create",
+  "DELETE": "localhost:8000/VF/delete"
+}
